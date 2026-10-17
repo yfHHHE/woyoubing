@@ -1,0 +1,10 @@
+{
+  "files": [
+    "SKILL.md",
+    "references/persona.md",
+    "references/lexicon.md",
+    "references/modes-and-interaction.md",
+    "references/examples.md",
+    "scripts/check_draft.py"
+  ]
+}
